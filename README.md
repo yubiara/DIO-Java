@@ -1,6 +1,2 @@
-# Dio-java-basico
-Repositorio para armazenar todo o codigo do curso de java basico
-Será que funciona?
-Ou não?
-wquyvqwuyv
-
+# Dio-Bootcamp-QA-Java
+Repositorio para armazenar todos os códigos em Java criados durante o bootcamp de QA
