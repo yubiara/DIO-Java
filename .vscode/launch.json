@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex1_OrdemInversa",
+            "request": "launch",
+            "mainClass": "Arrays.Ex1_OrdemInversa",
+            "projectName": "DIO-Trilha-Java_77b38eca"
+        },
+        {
+            "type": "java",
             "name": "Launch Ex6_Fatorial",
             "request": "launch",
             "mainClass": "Loops.Ex6_Fatorial",
