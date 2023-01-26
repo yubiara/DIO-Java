@@ -4,7 +4,48 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "Launch Ex6_Fatorial",
+            "request": "launch",
+            "mainClass": "Loops.Ex6_Fatorial",
+            "projectName": "DIO-Trilha-Java_77b38eca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex5_Tabuada",
+            "request": "launch",
+            "mainClass": "Loops.Ex5_Tabuada",
+            "projectName": "DIO-Trilha-Java_77b38eca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex4_ParEImpar",
+            "request": "launch",
+            "mainClass": "Loops.Ex4_ParEImpar",
+            "projectName": "DIO-Trilha-Java_77b38eca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex3_MaiorEMedia",
+            "request": "launch",
+            "mainClass": "Loops.Ex3_MaiorEMedia",
+            "projectName": "DIO-Trilha-Java_77b38eca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex2_Nota",
+            "request": "launch",
+            "mainClass": "Loops.Ex2_Nota",
+            "projectName": "DIO-Trilha-Java_77b38eca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex1_NomeEIdade",
+            "request": "launch",
+            "mainClass": "Loops.Ex1_NomeEIdade",
+            "projectName": "DIO-Trilha-Java_77b38eca"
+        },
         {
             "type": "java",
             "name": "Launch Current File",
