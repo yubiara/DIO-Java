@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex4_ArrayMultidimensional",
+            "request": "launch",
+            "mainClass": "Arrays.Ex4_ArrayMultidimensional",
+            "projectName": "DIO-Trilha-Java_77b38eca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex3_NumerosAleatorios",
+            "request": "launch",
+            "mainClass": "Arrays.Ex3_NumerosAleatorios",
+            "projectName": "DIO-Trilha-Java_77b38eca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex2_Consoantes",
+            "request": "launch",
+            "mainClass": "Arrays.Ex2_Consoantes",
+            "projectName": "DIO-Trilha-Java_77b38eca"
+        },
+        {
+            "type": "java",
             "name": "Launch Ex1_OrdemInversa",
             "request": "launch",
             "mainClass": "Arrays.Ex1_OrdemInversa",
