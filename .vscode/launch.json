@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ExemploList",
+            "request": "launch",
+            "mainClass": "Collections.ExemploList",
+            "projectName": "DIO-Trilha-Java_a253250d"
+        },
+        {
+            "type": "java",
             "name": "Launch Ex4_ArrayMultidimensional",
             "request": "launch",
             "mainClass": "Arrays.Ex4_ArrayMultidimensional",
